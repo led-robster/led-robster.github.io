@@ -1,0 +1,4 @@
+baseURL = 'https://MYblog.org/'
+languageCode = 'en-us'
+title = 'MYBlog'
+theme = 'PaperMod'
